@@ -28,6 +28,8 @@ motors using Python's own library. Communication with the control system is via 
 
 ![](https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/step_11_fig.png)
 
+## Connection:
+
 ![](https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/step_12_fig.png)
 
 ## Step no. 2: Control Bioloid Humanoid
@@ -40,7 +42,7 @@ motors using Python's own library. Communication with the control system is via 
 
 ![](https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/step_3_fig.png)
 
-**Test:**
+## Result:
 
 Link: https://www.youtube.com/watch?v=c92E_YC9uZQ
 
