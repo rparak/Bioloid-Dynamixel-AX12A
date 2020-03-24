@@ -20,7 +20,7 @@ motors using Python's own library. Communication with the control system is via 
 
 ![](https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/bioloid_all_1_fig.PNG)
 
-![](https://github.com/rparak/Bioloid-Dynamixel-AX12A/tree/master/images/connection_fig.png)
+![](https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/connection_fig.png)
 
 ## Step no. 1: Control one servo motor
 * TKinter, python animation
