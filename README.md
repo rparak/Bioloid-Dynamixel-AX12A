@@ -20,13 +20,13 @@ motors using Python's own library. Communication with the control system is via 
 
 
 ## Step no. 1: Control one servo motor
-a) TKinter, python animation
-b) OpenCV (multiple object tracking), matplotlib
+* TKinter, python animation
+* OpenCV (multiple object tracking), matplotlib
 
 
 ## Step no. 2: Control Bioloid Humanoid
-a) OpenCV (multiple object tracking), matplotlib
+* OpenCV (multiple object tracking), matplotlib
 
 
 ## Step no. 3: Control King-Spider
-a) OpenCV (object tracking), matplotlib
+* OpenCV (object tracking), matplotlib
