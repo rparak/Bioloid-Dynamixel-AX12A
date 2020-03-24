@@ -18,15 +18,24 @@ The project demonstrates the control of AX-12A servomotors on several examples. 
 port, using only one wire for both sending and receiving. Control of Dynamixel AX-12A servo 
 motors using Python's own library. Communication with the control system is via USB.
 
+![](https://github.com/rparak/Bioloid-Dynamixel-AX12A/tree/master/images/bioloid_all_1_fig.png)
+
+![](https://github.com/rparak/Bioloid-Dynamixel-AX12A/tree/master/images/connection_fig.png)
 
 ## Step no. 1: Control one servo motor
 * TKinter, python animation
 * OpenCV (multiple object tracking), matplotlib
 
+![](https://github.com/rparak/Bioloid-Dynamixel-AX12A/tree/master/images/step_11_fig.png)
+
+![](https://github.com/rparak/Bioloid-Dynamixel-AX12A/tree/master/images/step_12_fig.png)
 
 ## Step no. 2: Control Bioloid Humanoid
 * OpenCV (multiple object tracking), matplotlib
 
+![](https://github.com/rparak/Bioloid-Dynamixel-AX12A/tree/master/images/step_2_fig.png)
 
 ## Step no. 3: Control King-Spider
 * OpenCV (object tracking), matplotlib
+
+![](https://github.com/rparak/Bioloid-Dynamixel-AX12A/tree/master/images/step_3_fig.png)
