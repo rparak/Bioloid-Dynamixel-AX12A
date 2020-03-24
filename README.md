@@ -20,6 +20,8 @@ motors using Python's own library. Communication with the control system is via 
 
 ![](https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/bioloid_all_1_fig.PNG)
 
+## Connection:
+
 ![](https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/connection_fig.png)
 
 ## Step no. 1: Control one servo motor
@@ -27,8 +29,6 @@ motors using Python's own library. Communication with the control system is via 
 * OpenCV (multiple object tracking), matplotlib
 
 ![](https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/step_11_fig.png)
-
-## Connection:
 
 ![](https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/step_12_fig.png)
 
