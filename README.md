@@ -9,7 +9,7 @@ Python
 
 **Import Libraries:**
 ```bash
-matplotlib, NumPy, OpenCV, Tkinter 
+Matplotlib, PyLab, Threading, Serial, NumPy, OpenCV, Tkinter 
 ```
 
 # Simple testing - control of Dynamixel AX-12A servo motors using Python's own library
@@ -39,3 +39,13 @@ motors using Python's own library. Communication with the control system is via 
 * OpenCV (object tracking), matplotlib
 
 ![](https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/step_3_fig.png)
+
+**Test:**
+
+Link: https://www.youtube.com/watch?v=c92E_YC9uZQ
+
+## Contact Info:
+Roman.Parak@outlook.com
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
