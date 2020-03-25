@@ -37,7 +37,7 @@ motors using Python's own library. Communication with the control system is via 
 </p>
 
 <p align="center">
-<img src="https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/step_12_fig.png" width="700" height="350">
+<img src="https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/step_12_fig.png" width="700" height="300">
 </p>
 
 ## Step no. 2: Control Bioloid Humanoid
@@ -50,7 +50,7 @@ motors using Python's own library. Communication with the control system is via 
 ## Step no. 3: Control King-Spider
 * OpenCV (object tracking), matplotlib
 
-<p align="center">
+<p align="right">
 <img src="https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/step_3_fig.png" width="700" height="350">
 </p>
 
