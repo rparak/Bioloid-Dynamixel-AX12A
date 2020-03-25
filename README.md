@@ -25,7 +25,7 @@ motors using Python's own library. Communication with the control system is via 
 ## Connection:
 
 <p align="center">
-<img src="https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/connection_fig.png" width="700" height="500">
+<img src="https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/connection_fig.png" width="700" height="400">
 </p>
 
 ## Step no. 1: Control one servo motor
