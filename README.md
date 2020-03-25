@@ -19,10 +19,8 @@ port, using only one wire for both sending and receiving. Control of Dynamixel A
 motors using Python's own library. Communication with the control system is via USB.
 
 <p align="center">
-<img src="https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/bioloid_all_1_fig.PNG" width="300" height="300">
+<img src="https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/bioloid_all_1_fig.PNG" width="700" height="500">
 </p>
-
-![](https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/bioloid_all_1_fig.PNG)
 
 ## Connection:
 
