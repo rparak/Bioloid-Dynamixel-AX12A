@@ -32,19 +32,27 @@ motors using Python's own library. Communication with the control system is via 
 * TKinter, python animation
 * OpenCV (multiple object tracking), matplotlib
 
-![](https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/step_11_fig.png)
+<p align="center">
+<img src="https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/step_11_fig.png" width="700" height="350">
+</p>
 
-![](https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/step_12_fig.png)
+<p align="center">
+<img src="https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/step_12_fig.png" width="700" height="350">
+</p>
 
 ## Step no. 2: Control Bioloid Humanoid
 * OpenCV (multiple object tracking), matplotlib
 
-![](https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/step_2_fig.png)
+<p align="center">
+<img src="https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/step_2_fig.png" width="700" height="350">
+</p>
 
 ## Step no. 3: Control King-Spider
 * OpenCV (object tracking), matplotlib
 
-![](https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/step_3_fig.png)
+<p align="center">
+<img src="https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/step_3_fig.png" width="700" height="350">
+</p>
 
 ## Result:
 
