@@ -56,7 +56,7 @@ motors using Python's own library. Communication with the control system is via 
 
 ## Result:
 
-Link: https://www.youtube.com/watch?v=c92E_YC9uZQ
+Youtube: https://www.youtube.com/watch?v=c92E_YC9uZQ
 
 ## Contact Info:
 Roman.Parak@outlook.com
