@@ -11,14 +11,22 @@ Python
 ```bash
 Matplotlib, PyLab, Threading, Serial, NumPy, OpenCV, Tkinter 
 ```
+# OpenCV Test (Logitech Webcam C930e) 
+
+```bash
+[ check_fps.py        ] Find frames per second (fps) in OpenCV.
+[ object_detection.py ] Find the HSV parameters for the color of each object.
+[ check_result.py     ] Check the previously detected HSV parameters.
+```
+
+Directory:
+[Camera Test](https://github.com/rparak/Bioloid-Dynamixel-AX12A/tree/master/Camera_test)
 
 # Simple testing - control of Dynamixel AX-12A servo motors using Python's own library
 
 The project demonstrates the control of AX-12A servomotors on several examples. Dynamixel doesn’t respond to PWM signals, but a slightly more complicated protocol of instructions for reading and writing onto its memory. This communication happens over a half-duplex UART 
 port, using only one wire for both sending and receiving. Control of Dynamixel AX-12A servo 
 motors using Python's own library. Communication with the control system is via USB.
-
-[Camera Test](https://github.com/rparak/Bioloid-Dynamixel-AX12A/tree/master/Camera_test)
 
 <p align="center">
 <img src="https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/bioloid_all_1_fig.PNG" width="700" height="500">
