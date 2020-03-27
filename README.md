@@ -18,6 +18,8 @@ The project demonstrates the control of AX-12A servomotors on several examples. 
 port, using only one wire for both sending and receiving. Control of Dynamixel AX-12A servo 
 motors using Python's own library. Communication with the control system is via USB.
 
+[Camera Test](https://github.com/rparak/Bioloid-Dynamixel-AX12A/tree/master/Camera_test)
+
 <p align="center">
 <img src="https://github.com/rparak/Bioloid-Dynamixel-AX12A/blob/master/images/bioloid_all_1_fig.PNG" width="700" height="500">
 </p>
