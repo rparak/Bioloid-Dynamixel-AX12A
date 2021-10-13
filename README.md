@@ -71,5 +71,18 @@ Youtube: https://www.youtube.com/watch?v=c92E_YC9uZQ
 ## Contact Info:
 Roman.Parak@outlook.com
 
+## Citation (BibTex)
+
+```bash
+@misc{RomanParak_AX12A,
+  author = {Roman Parak},
+  title = {An open-source library to control the ax-12a servomotor},
+  year = {2019-2020},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/rparak/Bioloid-Dynamixel-AX12A}}
+}
+```
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
